@@ -1,7 +1,7 @@
 {
-  "version": "0.2.0",
-  "url": "https://github.com/orenji-dev/pip-download/releases/download/v0.2.0/Pip-0.2.0.exe",
+  "version": "1.0.0",
+  "url": "https://github.com/orenji-dev/pip-download/releases/download/v1.0.0/Pip-1.0.0.exe",
   "page": "https://github.com/orenji-dev/pip-download/releases",
-  "notes": "首个公开版本",
+  "notes": "正式版：按联系人设置关系标签、后台静默更新、试用期内 69 元",
   "min_version": "0.2.0"
 }
