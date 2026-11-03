@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/orenji-dev/pip-download/releases/download/v1.0.0/Pip-1.0.0.exe",
+  "version": "1.0.1",
+  "url": "https://github.com/orenji-dev/pip-download/releases/download/v1.0.1/Pip-1.0.1.exe",
   "page": "https://github.com/orenji-dev/pip-download/releases",
-  "notes": "正式版：按联系人设置关系标签、后台静默更新、试用期内 69 元",
+  "notes": "1.0.1：授权校验更安全；微信收托盘后能自动重连；候选可单条「更短/更皮」；聊天记录重启后还在；修了并发时可能发错人的问题。",
   "min_version": "0.2.0"
 }
